@@ -2,6 +2,8 @@
 
 A beautiful, modern web application for browsing the latest AI research papers from arXiv. Features a stunning glittery UI, real-time caching, and category filtering.
 
+![Daily AI Research Feed](./daily_research.png)
+
 ## ✨ Features
 
 - **Beautiful UI**: Glittery animations, gradient backgrounds, and professional design
@@ -86,6 +88,18 @@ daily-ai-research-feed/
 - Color-coded category badges
 - Professional typography
 - Hover effects and animations
+
+## 📸 Screenshots
+
+The application features a beautiful, modern interface with:
+
+- **Glittery animated header** with gradient effects and floating sparkles
+- **Professional card layout** with full paper abstracts
+- **Smart category filtering** for AI, Computer Vision, and NLP
+- **Real-time statistics** showing cache status and paper counts
+- **Responsive design** that works on all devices
+
+*Screenshot: `daily_research.png` - Shows the main interface with glittery header, stats dashboard, and paper cards*
 
 ## 🔧 Configuration
 
